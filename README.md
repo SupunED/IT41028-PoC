@@ -1,1 +1,1 @@
-# Proof of Cocept - IT41028 Final Year Project
+# Proof of Concept - IT41028 Final Year Project
